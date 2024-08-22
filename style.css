@@ -1,0 +1,94 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.firstlaer ul {
+
+list-style: none;
+
+}
+.firstlaer{
+justify-content: space-between;
+align-items: center;
+display: flex;
+}
+.firstlaer  ul li{
+
+display: inline-flex;
+align-items: center;
+margin-left: 30px;
+
+
+}
+.firstlaer ul li button{
+
+padding: 10px 10px;
+width: 100px;
+height: 40px;
+border: 1px solid darkblue;
+background-color: blue;
+color: white;
+font-size: 18px;
+border-radius: 10px;
+
+}
+.aniq{
+font-size: 25px;
+
+}
+.firstlaer ul li:hover{
+
+font-size: 20px;
+
+}
+.work h1{
+color: rgb(193, 189, 189);
+
+margin-top: 200px;
+}
+.work h2 {
+    margin-top: 30px;
+    color: black;
+    font-size: 30px;
+}
+.work h3 {
+margin-top: 30px;
+color: rgb(204, 201, 201);
+
+}
+.secondlear{
+
+    display: flex;
+
+}
+.img
+{
+
+margin-left: 180px;
+margin-top: 40px;
+
+}
+.po{
+
+background-color: rgb(252, 97, 40);
+color: white;
+border: 1px solid rgb(252, 97, 40);
+height: 40px;
+width: 10%;
+border-radius: 10px;
+font-size: 18px;
+
+}
+.work :hover{
+
+font-size: 18px;
+
+
+}
+.img :hover{
+
+width: 450px;
+
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+.firstlaer ul {
+list-style: none;
+}
+ .firstlaer{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    }
+    .firstlaer  ul li{
+    
+    display: inline-flex;
+    align-items: center;
+    margin-left: 30px;
+    
+    
+    }
+    .firstlaer ul li button{
+    
+    padding: 10px 10px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid darkblue;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    
+    }
+    .aniq{
+    font-size: 25px;
+    
+    }
+    .firstlaer ul li:hover{
+    
+    font-size: 20px;
+    
+    }
+    
+   
